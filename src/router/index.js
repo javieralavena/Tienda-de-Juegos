@@ -1,14 +1,14 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import StockDisponibleView from '../views/StockDisponibleView.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
-    name: 'home',
-    component: HomeView
+    path: '/stockdisponible',
+    name: 'stockdisponible',
+    component: StockDisponibleView
   },
   {
     path: '/about',
