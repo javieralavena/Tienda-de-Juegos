@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjuegos"]=self["webpackChunkjuegos"]||[]).push([[443],{3965:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about"},[n("h1")])}],l=n(1001),r={},c=(0,l.Z)(r,u,s,!1,null,null,null),a=c.exports}}]);
+//# sourceMappingURL=about.872080aa.js.map
